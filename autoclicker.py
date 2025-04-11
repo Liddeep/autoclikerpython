@@ -32,7 +32,7 @@ def display_controls():
     print("// - Controls:")
     print("\t F1 = Resume")
     print("\t F2 = Pause")
-    print("\t F3 = Exit")
+    print("\t Esc = Exit")  # Corregido de F3 a Esc
     print("-----------------------------------------------------")
     print('Press F1 to start ...')
 
